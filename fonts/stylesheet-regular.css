@@ -13,11 +13,8 @@
 
 @font-face {
     font-family: 'apercu-regular-pro';
-    src: url('apercu-regular-pro.eot');
-    src: url('apercu-regular-pro.eot?#iefix') format('embedded-opentype'),
-         url('apercu-regular-pro.woff2') format('woff2'),
-         url('apercu-regular-pro.woff') format('woff'),
-         url('apercu-regular-pro.ttf') format('truetype');
+    src: url('apercu-regular-pro.woff2') format('woff2'),
+         url('apercu-regular-pro.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
